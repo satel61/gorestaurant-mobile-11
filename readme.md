@@ -11,7 +11,7 @@ Essa será uma aplicação que irá se conectar a uma Fake API, e exibir e filtr
 
 ## Layout da aplicação
 
-![LAYOUT FIGMA](https://www.figma.com/file/cHzfYrUBgdzp1XrRuUpggk/GoRestaurant-Mobile?node-id=1603%3A448)
+https://www.figma.com/file/cHzfYrUBgdzp1XrRuUpggk/GoRestaurant-Mobile?node-id=1603%3A448
 
 ## Utilizando uma fake API
 
